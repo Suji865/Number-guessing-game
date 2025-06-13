@@ -27,5 +27,11 @@ How the Game Works:
 
          To understand how the number guessing game functions, let’s walk through two practical scenarios. 
          These examples demonstrate how narrowing down the range intelligently—similar to a binary search—can help guess the number efficiently.
+Summary:
 
+        This Python script implements a number guessing game using basic control structures. I
+        t uses random.randrange(100) to generate a target number between 0 and 99. 
+        The user is given 7 attempts to guess the number. 
+        A while loop handles repeated input, and conditional statements (if-elif) evaluate each guess—providing feedback on whether it's too high, too low, or correct.
+        If the guess matches, the loop breaks; otherwise, the game ends after 7 tries, displaying the correct number.
 
