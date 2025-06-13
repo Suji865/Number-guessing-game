@@ -25,6 +25,7 @@ The game provides feedback after each guess, helping the user refine their next 
 
 How the Game Works:
 
-         To understand how the number guessing game functions, let’s walk through two practical scenarios. These examples demonstrate how narrowing down the range intelligently—similar to a binary search—can help guess the number efficiently.
+         To understand how the number guessing game functions, let’s walk through two practical scenarios. 
+         These examples demonstrate how narrowing down the range intelligently—similar to a binary search—can help guess the number efficiently.
 
 
