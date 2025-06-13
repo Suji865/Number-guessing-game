@@ -12,6 +12,7 @@ Prerequisites:
 
 
 Learning Objectives:
+
            *Learn how to use the random module to generate random numbers.
            *Understand how to take user input and provide interactive feedback.
            *Develop a simple command-line game in Python.
